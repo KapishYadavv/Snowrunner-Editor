@@ -1,3 +1,5 @@
+## ❗❗The latest game update has broken the automatic file changer (.exe), I am working on fixing it and bringing new features and UI. Contributions are welcome.
+
 ![SNOW-runner-editor-v1-9-23-2024](https://github.com/user-attachments/assets/5faaf44a-2d16-455d-878b-beea7ff005b7)
 
 
